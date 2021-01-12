@@ -21,7 +21,3 @@ node_modules/
 *.log
 *.sql
 *.sqlite
-
-wp-config.php
-
-wp-config-sample.php
